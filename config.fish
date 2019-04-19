@@ -1,6 +1,3 @@
-set -U fish_user_paths ~/.local/bin/ $fish_user_paths
-set -U fish_user_paths ~/.npm/bin/ $fish_user_paths
-
 # The next line updates PATH for the Google Cloud SDK.
 if [ -f '/home/chengyu/google-cloud-sdk/path.fish.inc' ]; . '/home/chengyu/google-cloud-sdk/path.fish.inc'; end
 
