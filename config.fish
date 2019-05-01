@@ -1,5 +1,6 @@
 # The next line updates PATH for the Google Cloud SDK.
 if [ -f '/home/chengyu/google-cloud-sdk/path.fish.inc' ]; . '/home/chengyu/google-cloud-sdk/path.fish.inc'; end
+set PATH /home/chengyu/.npm/bin/ $PATH
 
 eval (direnv hook fish)
 
